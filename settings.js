@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923165123719'] //ur owner number
-global.ownername = "U M A R" //ur owner name
+global.vcardowner = ['+436805565555] //ur owner number
+global.ownername = "VYPRXX" //ur owner name
 global.ytname = "YT:UMAR MODS" //ur yt chanel name
 global.socialm = "GitHub: Umar" //ur github or insta name
 global.location = "Pakistan, Islamabad, Rawalpindi" //ur location
 
 //bot bomdy 
-global.owner = ['wa.me/+549262259-0189']
-global.ownertag = '+549262259-0189' //ur tag number
-global.botname = 'UMAR DEVIL Bot MD V4' //ur bot name
+global.owner = ['wa.me/+436805565555']
+global.ownertag = '436805565555' //ur tag number
+global.botname = '「𝐕𝐘𝐏𝐑𝐗𝐗」⁩ Bot MD V4' //ur bot name
 global.linkz = "https://chat.whatsapp.com/FiTSyR7Fcdn80iGxBoKqUZ" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/c/UMARMODS" //ur website to be displayed
-global.botscript = 'wa.me/923165123719/' //script link
+global.botscript = 'wa.me/+436805565555/' //script link
 global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "IT'S SAKANDER ABBAS \n\n\n\n\n\n\n\n\n\n\n+ 9 2 3 4 0 2 7 2 1 0 6 4😈😈😈" //ur sticker watermark packname
-global.author = "SAKANDER ABBAS👿" //ur sticker watermark author
+global.packname = "IT'S VYPRXX \n\n\n\n\n\n\n\n\n\n\n+ 4 3 6 8 0 5 5 6 5 5 5 5😈😈😈" //ur sticker watermark packname
+global.author = "「𝐕𝐘𝐏𝐑𝐗𝐗」⁩" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['+549262259-0189'] //ur premium numbers
+global.premium = ['+436805565555'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
