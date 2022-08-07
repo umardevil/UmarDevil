@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['+436805565555] //ur owner number
-global.ownername = "VYPRXX" //ur owner name
+global.vcardowner = ['923246923262'] //ur owner number
+global.ownername = "『FAR乛HムN』راجــــــپـوت" //ur owner name
 global.ytname = "YT:UMAR MODS" //ur yt chanel name
 global.socialm = "GitHub: Umar" //ur github or insta name
 global.location = "Pakistan, Islamabad, Rawalpindi" //ur location
 
 //bot bomdy 
-global.owner = ['wa.me/+436805565555']
-global.ownertag = '436805565555' //ur tag number
-global.botname = '「𝐕𝐘𝐏𝐑𝐗𝐗」⁩ Bot MD V4' //ur bot name
-global.linkz = "https://chat.whatsapp.com/FiTSyR7Fcdn80iGxBoKqUZ" //your theme url which will be displayed on whatsapp
+global.owner = ['wa.me/923246923262']
+global.ownertag = '923246923262' //ur tag number
+global.botname = 'Devil Bot MD V4' //ur bot name
+global.linkz = "https://wa.me/923165123719" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/c/UMARMODS" //ur website to be displayed
-global.botscript = 'wa.me/+436805565555/' //script link
+global.botscript = 'wa.me/+923246923262/' //script link
 global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
-global.packname = "IT'S VYPRXX \n\n\n\n\n\n\n\n\n\n\n+ 4 3 6 8 0 5 5 6 5 5 5 5😈😈😈" //ur sticker watermark packname
-global.author = "「𝐕𝐘𝐏𝐑𝐗𝐗」⁩" //ur sticker watermark author
+global.packname = "It's 『FAR乛HムN』راجــــــپـوت \n\n\n\n\n\n\n\n\n\n\n DARK DEVIL UMAR BOT INC😈😈😈" //ur sticker watermark packname
+global.author = "923246923262⁩" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['+436805565555'] //ur premium numbers
+global.premium = ['+923165123719'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -106,7 +106,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    admin: 'oye Rami This Feature Is Only For Admin!',
     botAdmin: 'Oye Rami Bot Must Be Admin First!',
     owner: 'Oye Rami This Feature Is Only For Owner!',
     group: 'Oye Rami Feature Used Only For Groups!',
