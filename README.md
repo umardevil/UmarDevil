@@ -1,124 +1,85 @@
+<h1 align='center'> Hi Dear!</h1>
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩4ꫂ<br></h1>
+--------
+
+
+> * Just newbie
+> * I like learning programming language.
+> * Live in Rawalpindi, Islamabad , Pakistan
+> * I'm 16 years.
+> * B'day 5 jan
+> ,If you want know 
+> * Commit almost 'every' day
+> * Allways on Whatsapp
+> * `Thx`
+--------
+
+`Currently learning`
+
+![Re7](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Re7](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Re7](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![Re7](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Re7](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![Re7](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Re7](https://img.shields.io/badge/-Cs-black?style=flat-square&logo=csharp)
+![Re7](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Re7](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Re7](https://img.shields.io/badge/-GO-black?style=flat-square&logo=go)
+![Re7](https://img.shields.io/badge/-Perl-black?style=flat-square&logo=perl)
+![Re7](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
+![Re7](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+
+--------
+
+![「‡𝐃∆𝐑𝐊  𝐃𝐄𝐕𝐈𝐋‡🇵🇰](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<details>
+    <summary>「⚙️」 <b>GitHub Stats</b></summary><br/>
+
+  <p align="center">
+  <a href="https://github.com/umardevil"><img src="https://github-profile-trophy.vercel.app/?username=Rlxfly&theme=tokyonight" /></a>
+</p>
+  
+   <p align="center">
+  <a href="https://github.com/umardevil"><img src="https://github-readme-stats.vercel.app/api?username=Rlxfly&show_icons=true&theme=nightowl" /></a>
+</p>
+
+  <p align="center">
+  <a href="https://github.com/umardevil"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rlxfly&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+  <p align="center">
+  <a href="https://github.com/umardevil"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rlxfly&theme=monokai" /></a>
+</p>
+  
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Rlxfly&theme=xcode&area=true&hide_border=true) 
+
+</details>
+
+---------
+---------
+
+<details>
+    <summary>「🧧」 <b>Follow Me On</b></summary><br/>
 <p align="center">
-<img src="https://i.imgur.com/9vwKmXu.jpeg"
+  <a href="https://www.instagram.com/dark-umar404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+  <a href="https://wa.me/923165123719"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+  <a href="https://github.com/umardevil"><img src="https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=Github&logoColor=000000&link=https://github.com/umardevil" /></a>
 </p>
 
-------
+</details>
 
-# ```Bot Info```
+  
+
+## Visitor 
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<img align="center" alt="count" src="https://count.getloli.com/get/@:umardevil?theme=rule34">
 </p>
-<p align='center'>
-    </p>
-
--------
-
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-</p>
-
-## ```Donate Me```
-
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
-
-## ```Bot Support Groups```
-
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD4/fork)
-
-## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
-
-## `SETTINGS`
-
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
-
-## ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
-
-# Install Manually 👇
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-## `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/DGXeon/CheemsBot-MD4.git
-cd CheemsBot-MD4
-
-npm start
-```
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD
-npm start
-```
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD4
-npm start
-```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
